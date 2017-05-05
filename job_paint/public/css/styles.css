@@ -1,0 +1,112 @@
+
+
+/* global css */
+.bg-default{
+	background: #ea6a5b!important;
+	color: #fff;
+	border-radius: 0px;
+	padding: 6px 60px;
+}
+.color-default{
+	color: #ea6a5b!important;
+    text-decoration: none!important;
+    font-weight: 600;
+}
+.liDefault{
+	padding-left: 10px;
+}
+.spacing{
+	margin-top: 30px;
+}
+
+/* Custom Header */
+.jp-header{
+	background: #eee;
+}
+.jp-header h1{
+	color: #656565;
+	font-weight: 600;
+    padding: 50px 0px;
+    margin-bottom: 0;
+}
+
+/* Custom Nav */
+.custom-header{
+	background: #ea6a5b;
+}
+
+.custom-header ul{
+	padding-left: 25px;
+}
+.custom-header ul li{
+	padding: 6px;
+    font-weight: 600;
+    color:#fff;
+}
+.custom-header ul li a{
+    color:#fff;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.custom-header ul li.active a{
+	border-bottom: 2px solid #6a423e;
+	color: #6a423e;
+}
+.custom-header ul li a:hover{
+	border-bottom: 2px solid #6a423e;
+	color: #6a423e;
+}
+
+/*New Paint Job Content*/
+
+.new-paint-job h3{
+	font-weight: 600;
+}
+
+.carContainer{
+	max-width: 660px;
+	display: block;
+    margin: 0 auto;
+}
+.carContainer img.arrow-shape{
+    margin-top: 56px;
+}
+
+form#carDetails{
+	margin-top: 10px;
+}
+
+form#carDetails h4{
+	font-weight: 600;
+}
+form#carDetails table tr td {
+    padding: 7px 10px;
+}
+form#carDetails table tr td select {
+    width: 100%;
+    height: 30px;
+} 
+
+
+/* Jobs Paint */
+
+.paint-jobs h3{
+	font-weight: 600;
+}
+
+.default-jobs{
+	width: 100%;
+}
+
+.default-jobs #header{
+	background: #eee;
+}
+
+.default-jobs td {
+    padding: 6px;
+    border: 1px solid #eee;
+}
+.shop-performance tr {
+	background : #eee;
+}
